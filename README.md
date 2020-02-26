@@ -1,8 +1,13 @@
 # psad-2020
 Курс по методам прикладного статистического анализа данных, 2020
-## Слайды
-* [Введение: распределения, статистики, оценки, гипотезы](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_1_intro.pdf)
-* Следующая лекция: параметрические гипотезы (критерии для среднего, дисперсии, проверка нормальности, биномиальные критерии) 
+
+## Занятия
+* [Введение: распределения, статистики, оценки, гипотезы](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_1_intro.pdf) 
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_1)
+* [Проверка параметрических гипотез](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_2_ht.pdf) 
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_2)
+* Следующая лекция: непараметрические гипотезы (ранговые критерии, престановочные критерии, бутстреп) 
+
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
