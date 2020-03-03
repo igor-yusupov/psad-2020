@@ -4,8 +4,8 @@
 * pandas==0.24.1
 * scipy==1.3.3
 * seaborn==0.9.0
-* statsmodels-0.11.1
-* permutation-test-0.18
-* permute-0.1a5
-* arch-4.13
-* cryptorandom-0.2
+* statsmodels==0.9.0
+* permutation_testpermutation-test==0.18
+* permute==0.1a4
+* arch==4.7.0
+* cryptorandom
