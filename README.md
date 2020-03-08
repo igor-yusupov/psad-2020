@@ -6,10 +6,13 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_1)
 * [Проверка параметрических гипотез](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_2_ht.pdf) 
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_2)
-* Следующая лекция: непараметрические гипотезы (ранговые критерии, престановочные критерии, бутстреп) 
+* [Проверка непараметрических гипотез](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_3_nonparam.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_3)
+* Следующая лекция: множественная проверка гипотез (поправка Бонферрони, метод Холма, восходящие и нисходящие методы) 
 
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
 | 04:00 18.02.2020 | https://forms.gle/25kf6FMu9TDgaihb8 |
 | 04:00 05.03.2020 | https://forms.gle/ZhXCpbR4eyTHUDkn9 |
+| 04:00 10.03.2020 | https://forms.gle/Zi6FrMEWrvLGknsUA |
