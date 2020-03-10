@@ -8,7 +8,9 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_2)
 * [Проверка непараметрических гипотез](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_3_nonparam.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_3)
-* Следующая лекция: множественная проверка гипотез (поправка Бонферрони, метод Холма, восходящие и нисходящие методы) 
+* [Множественная проверка гипотез ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_4_mht.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_4)
+* Следующая лекция: анализ зависимостей в данных
 
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
