@@ -10,7 +10,7 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_3)
 * [Множественная проверка гипотез ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_4_mht.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_4)
-* Следующая лекция: анализ зависимостей в данных
+* [Анализ зависимостей](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_5_corr.pdf)
 
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
