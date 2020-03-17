@@ -1,6 +1,9 @@
 # psad-2020
 Курс по методам прикладного статистического анализа данных, 2020
 
+**Трансляция начнется в 17.05**: https://meet.google.com/cwu-pvpq-oub
+(вход доступен по phsytech.edu)
+
 ## Занятия
 * [Введение: распределения, статистики, оценки, гипотезы](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_1_intro.pdf) 
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_1)
