@@ -23,3 +23,8 @@
 | 04:00 10.03.2020 | https://forms.gle/Zi6FrMEWrvLGknsUA |
 | 04:00 18.03.2020 | https://forms.gle/4YRMF2uKT9nWrvqW9 |
 | 04:00 25.03.2020 | https://forms.gle/k3uSvEQ2ZJRjciT49 |
+
+## Домашнее задание (лабораторная)
+| Deadline |  Ссылка |
+| ------------- | ------------- |
+| 23:59 25.02.2020 | [лабораторная работа 1](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/lab/lab1)|
