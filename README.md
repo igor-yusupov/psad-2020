@@ -1,4 +1,9 @@
 # psad-2020
+**Трансляция начнется в 17.05**: https://meet.google.com/cwu-pvpq-oub (вход доступен по phsytech.edu)
+
+
+
+
 Курс по методам прикладного статистического анализа данных, 2020
 
 **Домашнее задание:** https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/lab/lab1
@@ -16,6 +21,8 @@
 * [Множественная проверка гипотез ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_4_mht.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_4)
 * [Анализ зависимостей](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_5_corr.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_5)
+* [Дисперсионный анализ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_6_anova.pdf)
 
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
