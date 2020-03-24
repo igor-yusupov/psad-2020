@@ -8,8 +8,9 @@
 
 **Домашнее задание:** https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/lab/lab1
 
-**Дедлайн:** 25 марта, 23.59.
-
+**Первый дедлайн:** 25 марта, 23.59.
+**Второй дедлайн:** 4 апреля, 23.59. 
+Штраф за нарушение первого дедлайна: 5% от оценки в день.
 
 ## Занятия
 * [Введение: распределения, статистики, оценки, гипотезы](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_1_intro.pdf) 
